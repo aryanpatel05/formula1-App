@@ -51,13 +51,7 @@
 
 \*You need to have Internet connection in order to refresh the data…
 
-## Instances
 
-| Host     | URL                                |
-| -------- | ---------------------------------- |
-| Official | https://brightdv.github.io/boxbox/ |
-
-## Services used
 
 ### Formula 1
 
@@ -75,71 +69,6 @@
 
 Everything comes from the same API (Formula E API): https://api.formula-e.pulselive.com.
 
-## Translation
 
-Help translate _Box, Box!_ on [Hosted Weblate](https://hosted.weblate.org/projects/box-box/)
 
-<a href="https://hosted.weblate.org/engage/box-box/">
-<img src="https://hosted.weblate.org/widgets/box-box/-/translations/multi-auto.svg" alt="Translation status" />
-</a>
 
-Or, manually:
-
-- Create a file named **[your language ISO code, like en, fr, etc].arb**
-  These files are used by Flutter to provide you the translation.
-- Translate [this file](lib/l10n/app_en.arb) to your language (only the text between the quotes).
-- Finally, make a pull request or an issue and attach the code to it.
-
-The app is currently available in:
-
-- 🇬🇧 English
-- 🇫🇷 French
-- 🌐 Arabic, thanks to [@Music47ell](https://github.com/Music47ell)
-- 🇧🇩 Bengali, thanks to [@Rafee-M](https://github.com/Rafee-M)
-- 🇨🇳 Simplified Chinese, thanks to Ahoo Ng (五号电)
-- 🇩🇪 German, thanks to [@RekZix](https://github.com/RekZix)
-- 🇭🇺 Hungarian, thanks to [@d4f5409d](https://github.com/d4f5409d)
-- 🇮🇹 Italian, thanks to [@atilluF](https://github.com/atilluF)
-- 🇳🇴 Norwegian, thanks to [@comradekingu](https://github.com/comradekingu)
-- 🇵🇹 Portuguese, thanks to [@Alexthegib](https://github.com/Alexthegib)
-- 🇮🇳 Punjabi & Hindi, thanks to [@ShareASmile](https://github.com/ShareASmile)
-- 🇪🇸 Spanish, thanks to [@inigochoa](https://github.com/inigochoa)
-- 🌐 Swahili, thanks to [@leonardsangoroh](https://github.com/leonardsangoroh)
-- 🇹🇷 Turkish, thanks to [@metezd](https://github.com/metezd)
-
-and thanks to the other translators!
-
-## Donation
-If you like the app, and you want to support its development:
-
-### Monero
-![monero-qrcode](https://github.com/BrightDV/BoxBox/assets/92821484/4e39d4d9-d68f-42f4-a135-30dae73ecbec)
-
-Address: `48Yi7F3jDoQc5BsBQBaHnY6Y9hgP6oHev3AMNwd8QySsP52ZWZLhM3Hi4nccyq7wh81UEoXZvBSVmJ5sCLd9LLcXQPxqtxf`
-
-### [Github Sponsors](https://github.com/sponsors/BrightDV)
-
-## License
-
-[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-
-```
-Box, Box! is Free Software: You can use, study, share, and improve it at
-will. Specifically you can redistribute and/or modify it under the terms of the
-[GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
-published by the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-```
-
-## Notes
-
-I'm developing this app in my free time, so I appreciate feedback and welcome PRs!
-
-(_Box, Box!_ is unofficial software and in no way associated with the Formula 1 group of companies nor the Formula E group of companies.)
-
-Some interesting Formula 1 related projects:
-
-- The amazing [Ergast API](https://ergast.com/mrd).
-- [bacinger/f1-circuits](https://github.com/bacinger/f1-circuits): geo points for the map of each circuit.
-- [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1): client for live telemetry (upcoming) and stats, in Python.
-- [slowlydev/f1-dash](https://github.com/slowlydev/f1-dash): feature-rich livetiming webview used by the app.
