@@ -1,24 +1,3 @@
-<p align="center"><img src="assets/images/icon.png" width="150"></a></p> 
-<h2 align="center"><b>Box, Box!</b></h2>
-<h4 align="center">Unofficial Android and Web app for Formula 1 and Formula E fans!</h4>
-
-[![GitHub releases](https://img.shields.io/github/release/BrightDV/BoxBox?style=for-the-badge)](https://github.com/BrightDV/BoxBox/releases/latest)
-[![GitHub issues](https://img.shields.io/github/issues/BrightDV/BoxBox?style=for-the-badge)](https://github.com/BrightDV/BoxBox/issues)
-[![GitHub forks](https://img.shields.io/github/forks/BrightDV/BoxBox?style=for-the-badge)](https://github.com/BrightDV/BoxBox/network)
-[![GitHub stars](https://img.shields.io/github/stars/BrightDV/BoxBox?style=for-the-badge)](https://github.com/BrightDV/BoxBox/stargazers)
-[![GitHub license](https://img.shields.io/github/license/BrightDV/BoxBox?style=for-the-badge)](https://github.com/BrightDV/BoxBox/blob/main/LICENSE)
-[![Github all releases](https://img.shields.io/github/downloads/BrightDV/BoxBox/total.svg?style=for-the-badge)](https://github.com/BrightDV/BoxBox/releases)
-[![Codeberg mirror](https://img.shields.io/badge/Mirror-Codeberg-blue?style=for-the-badge)](https://codeberg.org/BrightDV/BoxBox)
-![https://hosted.weblate.org/engage/box-box/](https://img.shields.io/weblate/progress/box-box?style=for-the-badge)
-
-## Download
-
-[<img src="get-it-on-fdroid.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/org.brightdv.boxbox/)
-[<img src="get-it-on-github.png"
-     alt="Download from GitHub"
-     height="80">](https://github.com/BrightDV/BoxBox/releases/latest)
 
 ## Screenshots
 
